@@ -114,7 +114,7 @@ const signupfunction =() => {
                           </div>
                           <div className="button"><button>JOIN US</button></div>
                           <div className="notamember">Already a Member?
-                          <Link onClick={() => loginfunction()}>Login</Link>
+                          <Link onClick={() => loginfunction()}>Login </Link>
                               
                           </div>
                               
